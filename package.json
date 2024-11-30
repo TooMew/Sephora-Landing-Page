@@ -1,0 +1,12 @@
+{
+    "name": "shein-landing-page",
+    "version": "1.0.0",
+    "main": "index.html",
+    "scripts": {
+      "build": "echo 'No build required'",
+      "start": "npx serve"
+    },
+    "devDependencies": {
+      "serve": "^14.0.0"
+    }
+  }
